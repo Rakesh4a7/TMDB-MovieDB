@@ -23,8 +23,4 @@ An android application which shows the list &amp; information of movies from The
 
 
 ## *Screenshots:*
-<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image1.jpg" alt="Movies Home" width="250"/> .    
-<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image2.jpg" alt="Navigation Main Drawer" width="250"/> .    
-<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image3.jpg" alt="Now Playing" width="250"/> .    
-<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image4.jpg" alt="Movie Description" width="250"/> .    
-<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image5.jpg" alt="Search Category" width="250"/> . 
+<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image1.jpg" alt="Movies Home" width="250"/>.<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image2.jpg" alt="Navigation Main Drawer" width="250"/>.<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image3.jpg" alt="Now Playing" width="250"/>.<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image4.jpg" alt="Movie Description" width="250"/>.<img src="https://github.com/Rakesh4a7/TMDB-MovieDB/blob/master/Image5.jpg" alt="Search Category" width="250"/>. 
